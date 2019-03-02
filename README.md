@@ -1,4 +1,8 @@
-# BitterSweet: A web server for probing the bitter-sweet gradient and linked bitter receptors of small molecules 
+# BitterSweet: A web server for probing the bitter-sweet gradient and linked bitter receptors of small molecules
+
+<p align="center">
+  <img src="https://cosylab.iiitd.edu.in/bittersweet/static/images/overview-image.jpg"/>
+</p>
 
 ## Authors
 1. Rudraksh Tuwani
